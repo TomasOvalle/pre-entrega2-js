@@ -1,0 +1,23 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+body{
+    background-color: #000000;
+    font-weight: 200;
+}
+h1{
+    color: #9b6767;
+    font-size: 5rem;
+}
+h2{
+    color: #9b6767;
+    font-size: 4rem;
+}
+h3{
+    color: #9b6767;
+    font-size: 3rem;
+}
+.lista-mangas{
+    color: #c7a0a0;
+    font-size: 2rem;
+}
